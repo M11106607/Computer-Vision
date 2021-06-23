@@ -27,13 +27,21 @@ Install following libraries:
 - collections
 
 Color Quantization:
+
 Input:
+
 ![image](https://user-images.githubusercontent.com/43110863/123035004-f2f9b500-d42d-11eb-98e4-8a6f1f194471.png)
+
 Output:
+
 ![image](https://user-images.githubusercontent.com/43110863/123035394-96e36080-d42e-11eb-9b3d-a0741ef58d7c.png)
 
 Circle Detection:
+
 Input:
+
 ![image](https://user-images.githubusercontent.com/43110863/123035452-b11d3e80-d42e-11eb-8bb7-88c184ed7f6d.png)
+
 Output:
+
 ![image](https://user-images.githubusercontent.com/43110863/123035482-bd090080-d42e-11eb-8324-39f44f3224e1.png)
